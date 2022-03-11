@@ -1,0 +1,45 @@
+.gitar{
+    position: relative;
+    left: 610px;
+    
+    
+    
+ }
+.kafa{
+    padding-left: 530px;
+  position: relative;
+  left: 80px;
+  
+}
+
+ul{
+    text-align: center;
+    list-style: inside;
+    
+}
+.floot{
+  padding-left: 530px;
+  position: relative;
+  left: -30px;
+  
+  
+
+}
+.Zurna{
+    padding-left: 530px;
+  position: relative;
+  left: 10px;
+}
+.piyano{
+    padding-left: 530px;
+  position: relative;
+  left: 10px;
+}
+.saz{
+    padding-left: 530px;
+  position: relative;
+  left: 10px;
+}
+body{
+    background-color:rgb(201, 192, 192) ;
+}

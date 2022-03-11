@@ -1,0 +1,25 @@
+h1{
+    position: relative;
+    left: 20px;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style: inside;
+}
+h2{
+    position: relative;
+    left: 20px;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+    
+}
+img{
+    position: relative;
+    left: 550px;
+}
+p{
+    left: 20px;
+}
